@@ -1,2 +1,2 @@
-# test-repo
-this repository is for learnig perposes
+# Demo
+learning about git and github
